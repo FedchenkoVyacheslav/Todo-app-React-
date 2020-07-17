@@ -5,6 +5,7 @@
 .app-header h1 {
   flex-grow: 1;
   color: aquamarine;
+  line-height: 1;
 }
 
 .app-header h2 {
