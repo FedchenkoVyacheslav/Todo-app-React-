@@ -1,0 +1,21 @@
+.btn-outline-secondary {
+	border-color: aquamarine !important;
+	color: rgb(100, 177, 170) !important;
+}
+
+.btn-outline-secondary:hover,
+.btn-outline-secondary:focus {
+	background-color: aquamarine !important;
+	color: rgb(100, 177, 170) !important;
+}
+
+.btn-info {
+	color: aquamarine !important;
+	background-color: rgb(100, 177, 170) !important;
+}
+
+.btn-info:hover,
+.btn-info:focus {
+	background-color: aquamarine !important;
+	color: rgb(100, 177, 170) !important;
+}

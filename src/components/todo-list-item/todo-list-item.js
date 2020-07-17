@@ -5,7 +5,7 @@ import './todo-list-item.css';
 const TodoListItem = ({ label, important = false }) => {
 
   const style = {
-    color: important ? 'steelblue' : 'black',
+    color: important ? 'aquamarine' : 'rgb(100, 177, 170)',
     fontWeight: important ? 'bold' : 'normal'
   };
 
